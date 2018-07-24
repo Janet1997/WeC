@@ -45,3 +45,39 @@ async 函数中可能会有 await 表达式，这会使 async 函数暂停执行
 
     注意， await 关键字仅仅在 async function中有效。如果在 async function函数体外使用 await ，你只会得到一个语法错误（SyntaxError）。
 
+-----------------------------------
+2018 07 21 afternoon
+
+layer 弹窗组件库（？）
+
+{React.Component<SoucePanelProps, SoucePanelState>}
+
+
+-------------------------------------
+2018 07 23 morning
+
+https://doc.react-china.org/tutorial/tutorial.html
+
+`  renderSquare(i) {
+    return (
+      <Square
+        value={this.state.squares[i]}
+        onClick={() => this.handleClick(i)}
+      />
+    );
+  }
+  `
+
+  注意到我们在写代码的时候，在各个属性直接换了行，这样可以改善我们代码的可读性。并且我们在 JSX 元素的最外层套上了一小括号，以防止 JavaScript 代码在解析时自动在换行处添加分号。(不太明白)
+
+
+  react 为只有render方法的组件提供了一种更简便的定义组件的方法： 函数定义组件。只需要简单写一个以 props 为参数的 function 返回 JSX 元素就搞定了。
+
+  less scss 替换主题
+
+  FLEX flex-direction: justify-...:  ==>flexBox CSS
+
+  blueprintjs tabs
+  
+
+
