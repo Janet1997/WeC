@@ -79,5 +79,21 @@ https://doc.react-china.org/tutorial/tutorial.html
 
   blueprintjs tabs
   
+  -----------------------------------------
+  2018 07 24 afternoon
+
+  如何实现网页更改主题颜色
+  
+  纯前端的搜索的理解 以及 分页 filepanel 232
+
+  文件的格式化
+
+  bp3 尝试应用
+  react 开始理解
+  mobX 没看
+  flexbox似懂非懂 尝试应用
+  three.js demo有空去写
+
+
 
 
